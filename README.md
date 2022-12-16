@@ -1,2 +1,0 @@
-# calculadora-
-minha primeira calculadora 
